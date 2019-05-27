@@ -43,7 +43,7 @@ class CategoryList extends Component {
                         placeholder="Search product category"
                         onChange={this.onSearchTermChange}
                     />
-                    <ul style={{ float: 'left', textAlign: 'left' }}>
+                    <ul style={{ float: 'left', textAlign: 'left', width:'100%' }}>
                         <CategoryListView categories={this.state.sortedList} />
                     </ul>
                 </div>
