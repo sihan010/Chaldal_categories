@@ -60,7 +60,7 @@ const styles = {
         width: '100%',
         fontFamily: "'Overlock', cursive",
         fontSize: 18,
-        backgroundColor: '#85C1E9'
+        backgroundColor: '#D6EAF8'
     }
 }
 
